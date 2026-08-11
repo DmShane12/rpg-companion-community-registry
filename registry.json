@@ -2082,5 +2082,18 @@
     "github_repo": "DmShane12/Shane-s-DnD-stuff",
     "repo_url": "https://DmShane12.github.io/Shane-s-DnD-stuff/",
     "has_system": false
+  },
+  {
+    "name": "Skellig-Shane-sFixes",
+    "description": "some fixes tweaks modifications and Homebrew used at my table",
+    "tags": [
+      "5e",
+      "homebrew",
+      "skellig"
+    ],
+    "stars": 0,
+    "github_repo": "DmShane12/Skellig-Shane-sFixes",
+    "repo_url": "https://DmShane12.github.io/Skellig-Shane-sFixes/",
+    "has_system": false
   }
 ]
