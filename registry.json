@@ -2095,5 +2095,14 @@
     "github_repo": "DmShane12/Skellig-Shane-sFixes",
     "repo_url": "https://DmShane12.github.io/Skellig-Shane-sFixes/",
     "has_system": false
+  },
+  {
+    "name": "Shane-s-compendium",
+    "description": "a combination of my Homebrew things that have been fixed and just general goodness",
+    "tags": [],
+    "stars": 0,
+    "github_repo": "DmShane12/Shane-s-compendium",
+    "repo_url": "https://DmShane12.github.io/Shane-s-compendium/",
+    "has_system": false
   }
 ]
